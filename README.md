@@ -1,4 +1,4 @@
 # FCC-Responsive-Website
 
-Responsive Website projects created by Naruesorn Dechnorachai
+Responsive Website projects using HTML5 and CSS created by Naruesorn Dechnorachai \
 Only for showcase
